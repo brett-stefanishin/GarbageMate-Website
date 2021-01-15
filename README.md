@@ -1,2 +1,0 @@
-# GarbageMate-Webste
-GarbageMate website
